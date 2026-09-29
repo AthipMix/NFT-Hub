@@ -1,0 +1,7 @@
+{
+  "name": "NFT Hub",
+  "description": "Decentralized NFT Gallery & Marketplace frontend on Ethereum Sepolia Testnet featuring cyberpunk neon aesthetics, ethers.js v6 smart contract integration, and live wallet session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
